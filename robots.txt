@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tokyo-bee.node-link.shop/sitemap.xml
+Sitemap: https://magok-sing-room.node-link.shop/sitemap.xml
